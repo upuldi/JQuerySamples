@@ -1,0 +1,27 @@
+.success {
+	width: auto;
+	padding: 5px;
+	background: #ddffcc;
+	border: 2px solid #005B2D;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.error {
+	width: auto;
+	padding: 5px;
+	background: #fcd1d1;
+	border: 2px solid #C00;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.errorInput {
+	background: #fcd1d1;
+	border: 1px solid #C00;
+}
+
+.error-disable
+{
+   display:none;
+}
